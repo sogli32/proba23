@@ -1,0 +1,138 @@
+
+.Pocetak{
+  background-color: green;
+  position: relative;
+  padding-top: 30px;
+  text-align: center;
+  font-family: Arial;
+  color: #66BFBF;
+  line-height: 2;}
+  .klasa{
+position: absolute;
+right: 650px;
+top:40px;
+}
+.klasa2{
+  position: absolute;
+  left:600px;
+  top:70px;
+}
+.planina{
+  position: relative;
+  margin:auto;
+
+}
+hr{
+  width: 10%;
+  size:4;
+  color:black;
+  border-style: dotted;
+  position: absolute;
+  margin-left: 860px;
+  margin-top: 30px;
+
+}
+.druga-klasa{
+  text-align: center;
+  margin-top: 60px;
+}
+.paragra{
+   width: 30%;
+   margin: auto;
+   text-align: left;
+   font-family: Arial;
+   font-size: 3;
+   line-height: 2;
+}
+h1{
+  position: relative;
+  padding-top: 30px;
+  text-align: center;
+  font-family: Arial;
+  color: #66BFBF;
+  line-height: 2;
+}
+.komp
+{
+  float: left;
+  width: 10%;
+  height: 10%;
+  margin-left: 500px;
+  padding-bottom: 100px;
+  padding-right: 40px;
+
+}
+.Pkomp{
+text-align: left;
+font-family: Arial;
+font-size: 3;
+line-height: 2;
+padding-bottom: 100px;
+
+
+}
+.paprika{
+  float: right;
+  margin-right: 500px;
+  width: 8%;
+  height: 10%;
+  padding-left:  10px;
+
+}
+.PPaprika{
+  text-align: left;
+  font-family: Arial;
+  font-size: 3;
+  line-height: 2;
+  padding-left: 600px;
+}
+h2{
+position: relative;
+
+text-align: center;
+font-family: Arial;
+color: #66BFBF;
+}
+.hr2{
+width: 10%;
+size:4;
+color:black;
+border-style: dotted;
+position: absolute;
+margin-left: 860px;
+margin-top: 40px;
+}
+.tekst{
+  position: relative;
+  padding-top: 50px;
+  text-align: center;
+  font-family: Arial;
+  color: #66BFBF;
+  line-height: 2;
+}
+.contact{
+font-size: 3;
+padding-bottom: 20px;
+}
+.kraj{
+  background-color:  #66BFBF;
+  text-align: center;
+padding-bottom: 20px;
+}
+a{
+  color:blue;
+  display: inline-block;
+
+
+}
+a:hover{
+  color:black;
+
+}
+.Sredina{
+  text-align: center;
+}
+body{
+  margin:0;
+  margin-bottom: 0;
+}
